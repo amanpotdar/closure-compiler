@@ -6,6 +6,8 @@
 The [Closure Compiler](https://developers.google.com/closure/compiler/) is a tool for making JavaScript download and run faster. It is a true compiler for JavaScript. Instead of compiling from a source language to machine code, it compiles from JavaScript to better JavaScript. It parses your JavaScript, analyzes it, removes dead code and rewrites and minimizes what's left. It also checks syntax, variable references, and types, and warns about common JavaScript pitfalls.
 
 ## Getting Started
+
+
  * [Download the latest version](https://dl.google.com/closure-compiler/compiler-latest.zip) ([Release details here](https://github.com/google/closure-compiler/wiki/Releases))
  * [Download a specific version](https://github.com/google/closure-compiler/wiki/Binary-Downloads). Also available via:
    - [Maven](https://github.com/google/closure-compiler/wiki/Maven)
@@ -13,6 +15,7 @@ The [Closure Compiler](https://developers.google.com/closure/compiler/) is a too
  * See the [Google Developers Site](https://developers.google.com/closure/compiler/docs/gettingstarted_app) for documentation including instructions for running the compiler from the command line.
 
 ## Options for Getting Help
+
 1. Post in the [Closure Compiler Discuss Group](https://groups.google.com/forum/#!forum/closure-compiler-discuss).
 2. Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/google-closure-compiler).
 3. Consult the [FAQ](https://github.com/google/closure-compiler/wiki/FAQ).
@@ -513,6 +516,7 @@ without make's wrinkles and with the full portability of pure java code.</td>
   </tr>
 
   <tr>
+   
     <td>Version</td>
     <td>(best guess) 27e260259ec83211b0cc59043988f124e9a42b20</td>
   </tr>
